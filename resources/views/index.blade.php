@@ -5,4 +5,5 @@
     <h2 class="text-xl text-gray-600">Formate</h2>
     <h3 class="text-lg text-gray-600">Duplica tus ingresos</h3>
 </div>
+<livewire:course-list>
 @endsection
